@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Marker-02" size="0.250000 0.176831" />
+    <ImageTarget name="Marker_01" size="0.250000 0.195312" />
+    <ImageTarget name="maxresdefault" size="0.250000 0.140625" />
+    <ImageTarget name="Potato_Corner_Logo" size="0.250000 0.087648" />
+  </Tracking>
+</QCARConfig>
